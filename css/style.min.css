@@ -591,10 +591,16 @@ footer p a {
         color: #353535;
         margin: 22px 0 6px 16px;
     }
-        .footer-logo {
-            width: 213px;
-            margin: 0 auto;
-        }
+
+    .footer-logo {
+        width: 213px;
+        margin: 0 auto;
+    }
+
+    .hero {
+
+        padding: 30px 0;
+    }
 
 }
 
