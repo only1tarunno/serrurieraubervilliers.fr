@@ -600,7 +600,8 @@ footer p a {
     }
 
     .hero {
-
+min-height: 580px;
+background-position: right top;
         padding: 30px 0;
     }
 
